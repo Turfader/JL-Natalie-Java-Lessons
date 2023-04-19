@@ -1,5 +1,5 @@
-Public class Dog {
-  Public Dog() {
+public class Dog {
+  public Dog() {
     // attributes here
   }
 }
