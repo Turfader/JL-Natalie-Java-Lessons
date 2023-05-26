@@ -11,6 +11,7 @@ public class DriverTarget
             {
                 targetPoint = new Point();
             }
+            
             /* Add your code here. Do not change anything in the point class or player point subclass.
             Your goal is to write code using class functions, ex. playerPoint.moveRight(), that will move to 
             align the player point with the goal point. You are free to use google to your heart's content.
@@ -19,6 +20,5 @@ public class DriverTarget
 
             // For this project, avoid using loops. You should use if and else if conditionals
         }
-
     }
 }
